@@ -24,4 +24,6 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
 
-#### This prject is inspired from  Katie Huang's Super_store analysis Project
+***
+
+# This Project is inspired from  Katie Huang's Super_store analysis Project
