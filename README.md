@@ -26,4 +26,5 @@ The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkotha
 
 ***
 
-# This Project is inspired from  Katie Huang's Super_store analysis Project
+###This Project is inspired from  Katie Huang's Super_store analysis Project
+***
